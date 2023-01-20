@@ -1,0 +1,22 @@
+{
+  "name": "kawga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyaskaragel/KawgaBot.git"
+  },
+  "author": "Karster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyaskaragel/KawgaBot/issues"
+  },
+  "homepage": "https://github.com/ilyaskaragel/KawgaBot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
